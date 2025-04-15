@@ -4,6 +4,7 @@
   "type": "module", 
   "main": "index.js",
   "scripts": {
+    "animals": "node --watch ./animals.js",
     "auto": "node --watch ./auto.js",
     "oop": "node --watch ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
